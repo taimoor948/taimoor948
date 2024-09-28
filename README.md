@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Next.js / React.js / Python**
 
-- 🌱 I’m currently learning **Security Information and Event Management (SIEM)**
+- 🌱 I’m currently learning **Social Media Post Monitoring**
 
 - 🚀 I’m also diving deep into the **MERN Stack**
 
